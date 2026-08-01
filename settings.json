@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "HORIZON AFK BOT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "HORIZONBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Horizonteeterno.aternos.me",
+    "port": 38798,
     "version": "",
     "try-creative": false
   },
